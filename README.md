@@ -13,7 +13,7 @@ Calculate your macros to follow your diet precisely according to your daily trai
 First of all, clone the project with HTTPS
 
 ```bash
-  git clone https://github.com/damevin/SportSee.git
+  git clone https://github.com/FZChlo/SportSee.git
   cd SportSee
 ```
 
