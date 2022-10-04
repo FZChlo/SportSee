@@ -31,7 +31,7 @@ After run the yarn start command the backend will open http://localhost:3000
 
 ### Front-end
 
-If you are on the API folder, make sure to come back to the root folder of the project.
+If you are on the API folder, make sure to come back to the root folder of the project "SportSee/".
 
 Then install dependencies :
 ```
