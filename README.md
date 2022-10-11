@@ -35,7 +35,11 @@ If you are on the API folder, make sure to come back to the root folder of the p
 
 Then install dependencies :
 ```
-yarn
+yarn install
 yarn start
 ```
 After run the yarn start command you will find the application on http://localhost:3001
+
+After that you just need to follow the locations who's on the README.md of the API.
+
+
