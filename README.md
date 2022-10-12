@@ -51,7 +51,6 @@ After that you just need to follow the endpoints who's on the README.md of the A
 
 | Name              | Version |
 | ----------------- | ------- |
-| Better Docs       | 2.3.2   |
 | jsdoc             | 3.6.7   |
 | react             | 17.0.2  |
 | react-dom         | 17.0.2  |
