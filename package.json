@@ -45,9 +45,8 @@
   },
   "devDependencies": {
     "docdash": "^1.2.0",
-    "jsdoc": "^3.6.7",
+    "jsdoc": "^3.6.11",
     "jsdoc-to-markdown": "^7.1.0",
     "react-styleguidist": "^11.1.7"
   }
 }
-
