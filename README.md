@@ -47,6 +47,11 @@ After run the yarn start command you will find the application on http://localho
 
 After that you just need to follow the endpoints who's on the README.md of the API.
 
+### Doc
+```
+Run index.html with live-server
+```
+
 ## Dependencies
 
 | Name              | Version |
